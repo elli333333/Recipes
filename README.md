@@ -1,3 +1,8 @@
-A collection of recipes from various sources.
+# A collection of recipes from various sources.
+---
+## contirbuting
+idk, make it a markdown file, put it in the right folder (create the right folder if you need) and submit a PR
 
-Everything in this repo is public domain
+---
+## licence
+public domain
