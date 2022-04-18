@@ -48,4 +48,4 @@
 1. Heat Chocolate and Cream together over a low heat until melted, Cool in a bowl.
 
 4. Slice Cooled cake in half, sandwich together with some Caramel.
-5. Spread Ganache over top and decorate with Sea Salt, Truffles, and a drissle of Caramel
+5. Spread Ganache over top and decorate with Sea Salt, Truffles, and a drizzle of Caramel
